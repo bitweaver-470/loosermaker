@@ -7,7 +7,6 @@ NoMosaic for Looser Maker
 導入
 ----
 1. ゲームフォルダにBepInEx 6 IL2CPPを導入してください。
-   同梱の BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.755+3fab71a.zip を展開します。
 2. このzip内の BepInEx フォルダをゲームフォルダへ上書きコピーしてください。
 3. ゲームを起動します。
 
